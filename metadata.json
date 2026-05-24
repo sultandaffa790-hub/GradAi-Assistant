@@ -1,0 +1,8 @@
+{
+  "name": "GradAI: AI Career Assistant",
+  "description": "Platform AI untuk membantu mahasiswa bersiap masuk industri: Review CV ATS, Simulasi Interview, Analisis Skill \u0026 Roadmap, dan Optimasi LinkedIn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
